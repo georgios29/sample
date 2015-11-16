@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Intro to Git");
+            Console.WriteLine("--------------------------------------");
             Console.WriteLine("Hello there, this is my first Git Test");
             Console.ReadLine();
         }
