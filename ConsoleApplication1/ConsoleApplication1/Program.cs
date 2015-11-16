@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello there, this is my firsT Git Test");
+            Console.WriteLine("Hello there, this is my first Git Test");
             Console.Write("Do you like it so far? Y/N:");
             if (Console.ReadLine().ToUpper() == "Y")
                 Console.WriteLine("Great! Thee are so much more to come :)");
